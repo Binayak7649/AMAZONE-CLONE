@@ -1,0 +1,216 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.lo{
+    height: 60px;
+    width: 150px;
+}
+.navbar{
+    height: 60px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+}
+#icons{
+    font-size: 25px;
+    background-color: rgb(237, 165, 72);
+    color: black;
+    text-align: center;
+}
+.icon{
+    height: 60px;
+    width: auto;
+}
+.delivery{
+    color: aliceblue;
+    font-size: 15px;
+    padding-left: 50px;
+}
+.place{
+    padding-left: 250px;
+    text-align: left;
+    height: 30px;
+}
+.nav-search {
+    display: flex;
+    justify-content: space-evenly;
+    width: 620px;
+    height: 40px;
+    border-radius: 4px;
+    padding-left: 50px;
+    margin-top: 10px;
+}
+
+.search-select {
+    background-color: #f3f3f3;
+    width: 50px;
+    text-align: center;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border: none;
+}
+
+.search-input {
+    width: 100%;
+    font-size: 1rem;
+    border: none;
+}
+
+.search-icon {
+    width: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    background-color: #febd68;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+
+.nav-search:hover {
+    border: 2px solid orange;
+}
+.sign{
+    color: aliceblue;
+    padding-left: 100px;
+    margin-top: 10px;
+}
+.signin{
+    text-decoration: none;
+    color: aliceblue;
+    margin-top: 10px;
+}
+.return{
+    color: aliceblue;
+    padding-left: 50px;
+    margin-top: 10px;
+}
+.return1{
+    text-decoration: none;
+    color: aliceblue;
+}
+.cart{
+    color: aliceblue;
+    margin-top: 10px;
+    padding-left: 40px;
+    font-size: 40px;
+}
+.item{
+    height:26px;
+    width: auto;
+    background-color:#202833 ;
+    display: flex;
+}
+.items{
+    color: aliceblue;
+    font-size: 20px;
+    padding-left: 20px;
+    margin-top: 3px;
+}
+.prc{
+    text-decoration: none;
+    display: flex;
+    padding-left: 30px;
+}
+.abc{
+    text-decoration:none ;
+    color: aliceblue;
+    margin-left: 20px;
+    font-size: 20px;
+}
+.add{
+   margin-top: 20px;
+   margin-left: 10px;
+}
+
+.anchor{
+    color: rgb(16, 73, 187);
+    text-decoration: none;
+    padding-left: 0px;
+}
+.jewellery{
+    display: block;
+    height: 100px;
+}
+.products{
+    border: 2px,black;
+    height: 5px;
+    width: 280px;
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    color: rgb(16, 73, 187);
+    margin-left: 250px;
+}
+.mobile{
+    display: block;
+    margin-left: 400px;
+    text-decoration: none;
+    color: rgb(16, 73, 187);
+    padding-top: 0px;
+    padding-left: 500px;
+}
+.style{
+    margin-top: 0px;
+    display: block;
+    margin-left: 800px;
+    color: rgb(16, 73, 187);
+    text-decoration: none;
+}
+#bottle{
+    background-color: #16325B;
+}
+.ba{
+    text-decoration: none;
+    color: cornflowerblue;
+}
+.bottleup{
+   margin-top: 30px;
+     background-color: white;
+}
+.bottle{
+    display: flex;
+    margin-top: 0px;
+    background-color: aliceblue;
+    background-color:white;
+    width: 100%;
+}
+.productheading{
+    margin-top: 320px;
+    color: cornflowerblue;
+    background-color: white;
+}
+.makeup{
+    display: flex;
+    margin-top: 0px;
+    background-color: aliceblue;
+    
+
+}
+.mproduct{
+    padding-left: 90px;
+}
+.fottertwo{
+    background-color: #16325B;
+    text-align: center;
+    height: 40px;
+    padding-top: 10px;
+}
+.ftt{
+    text-decoration: none;
+    color: white;
+    padding-top: 90px;
+
+}
+.fotter{
+    display: flex;
+    background-color:#202833 ;
+    height: 300px;
+}
+.fotterid{
+    text-decoration: none;
+    padding-left: 180px;
+    margin-top: 70px;
+    color: aliceblue;
+}
